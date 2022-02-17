@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'RobotoMono-ExtraLight';
+src: url('../fonts/Roboto_Mono/static/RobotoMono-ExtraLight.ttf');
+}
+
+
+body{
+    background-image:url(../img/pexels-gdtography-911758.jpg);
+}
+.titulo{
+    
+    font-family:'RobotoMono-ExtraLight';
+    position: relative;
+    margin-right: 180px;
+
+    
+    
+}
